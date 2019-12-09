@@ -8,7 +8,7 @@ start month start year
 end month end year
 author1 author2 ... authorN
 
-The tool can be executed using the run.sh shell script file. It install all the python dependencies itself and then downloads the comics.
+The tool can be executed using the run.sh shell script file. It install all the python dependencies itself and then downloads the comics. If it doesn't work install the dependencies manually and execute the tool using the command < python scrap.py >
 
 
 Enjoy reading comics ☻
